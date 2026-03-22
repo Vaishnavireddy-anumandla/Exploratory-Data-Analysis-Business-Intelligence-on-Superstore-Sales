@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-Business-Intelligence-on-Superstore-Sales
+Analyzed retail sales data to uncover trends, patterns, and relationships using SQL and Python. Performed univariate and multivariate EDA, answered 12 business questions with SQL queries, and created a 9-slide dashboard mock-up highlighting KPIs, top products, sales by category, city, and profit insights.
